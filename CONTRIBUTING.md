@@ -4,7 +4,7 @@
 After [adding your own page in the **Students** page](https://github.com/rishabh-bansal/Make-a-Pull-Request/issues/1), include your name and link for your Github profile at the end of the list, using the format below (remember to replace `<Name>` and `<your-username>` with your full name and github username, respectively):
 
 ```markdown
-- [<Name>](https://github.com/<your-username>)
+- [Akshay Kumar](https://github.com/GHakshay)
 ```
 
 - [Kudakwashe Paradzayi](https://github.com/kudapara)
@@ -41,3 +41,4 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Ansh Sachdeva](https://github.com/chaostools)
 - [Christopher Moura](https://github.com/christophermoura)
 - [Chahat Bansal](https://github.com/chahatbansal)
+- [Akshay Kumar](https://github.com/GHakshay)
